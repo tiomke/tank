@@ -13,7 +13,7 @@ namespace TanksMP
         /// <summary>
         /// Amount of shield points to add per consumption.
         /// </summary>
-        public int amount = 3;
+        public int amount = 300;
 
 
         /// <summary>

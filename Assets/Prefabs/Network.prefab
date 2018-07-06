@@ -78,15 +78,15 @@ MonoBehaviour:
   m_ScriptCRCCheck: 0
   m_MaxDelay: 0.01
   m_LogLevel: 4
-  m_PlayerPrefab: {fileID: 112386, guid: f30ad63695c27504b8c2aa87564a6ccc, type: 2}
+  m_PlayerPrefab: {fileID: 112386, guid: ca0d3e14cb38bae49acdad33ebcf4570, type: 2}
   m_AutoCreatePlayer: 1
   m_PlayerSpawnMethod: 0
   m_OfflineScene: 
   m_OnlineScene: Game
   m_SpawnPrefabs:
+  - {fileID: 112386, guid: ca0d3e14cb38bae49acdad33ebcf4570, type: 2}
   - {fileID: 112386, guid: f30ad63695c27504b8c2aa87564a6ccc, type: 2}
   - {fileID: 112386, guid: c514d17be449d9d41b4be00bf058808f, type: 2}
-  - {fileID: 112386, guid: ca0d3e14cb38bae49acdad33ebcf4570, type: 2}
   m_CustomConfig: 0
   m_MaxConnections: 12
   m_ConnectionConfig:
@@ -103,12 +103,19 @@ MonoBehaviour:
     m_OverflowDropThreshold: 5
     m_MaxConnectionAttempt: 10
     m_AckDelay: 33
+    m_SendDelay: 10
     m_MaxCombinedReliableMessageSize: 100
     m_MaxCombinedReliableMessageCount: 10
     m_MaxSentMessageQueueSize: 128
-    m_IsAcksLong: 0
+    m_AcksType: 1
     m_UsePlatformSpecificProtocols: 0
+    m_InitialBandwidth: 0
+    m_BandwidthPeakFactor: 2
     m_WebSocketReceiveBufferMaxSize: 0
+    m_UdpSocketReceiveBufferMaxSize: 0
+    m_SSLCertFilePath: 
+    m_SSLPrivateKeyFilePath: 
+    m_SSLCAFilePath: 
     m_Channels: []
   m_GlobalConfig:
     m_ThreadAwakeTimeout: 1
@@ -116,6 +123,12 @@ MonoBehaviour:
     m_ReactorMaximumReceivedMessages: 1024
     m_ReactorMaximumSentMessages: 1024
     m_MaxPacketSize: 2000
+    m_MaxHosts: 16
+    m_ThreadPoolSize: 1
+    m_MinTimerTimeout: 1
+    m_MaxTimerTimeout: 12000
+    m_MinNetSimulatorTimeout: 1
+    m_MaxNetSimulatorTimeout: 12000
   m_Channels: 0500000000000000
   m_UseWebSockets: 0
   m_UseSimulator: 0

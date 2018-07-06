@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TanksMP.AudioManager" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAgCAQAAABEADABAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.BotSpawner" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\BotSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Bullet" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAgEAAQQAAAgAACAAAAAAAAAAAAAQABRAAABgAIAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.DontDestroyManager" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\DontDestroyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Encryptor" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAQAAAAAAAABABAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Encryptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.FollowTarget" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAQAIAAAIAAAAEAAAAAACCAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\FollowTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.GameManager" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABFAAAACAiAEAAAAIBIAAAADADAAAACBAAAACCYAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Team" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.IAPProduct" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAABAAAIAAAAAAQACAAAAAAAggAAkA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\IAPProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.IAPProductRestore" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\IAPProductRestore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.NetworkDiscoveryCustom" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\NetworkDiscoveryCustom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.NetworkManagerCustom" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAFhQgAAAAAAAMAAgFAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\NetworkManagerCustom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.JoinMessage" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\NetworkManagerCustom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.NetworkMigrationManagerCustom" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\NetworkMigrationManagerCustom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.ObjectSpawner" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAIAAAAAQAAAJAAABAAAQCAAAAAAAYAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\ObjectSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.ParticleColor" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\ParticleColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Player" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAwEIQYGoIIBFGFBSgEAwAQCEAAAACEAgABgIAgkMw=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PlayerBot" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIAyAAAQAAACQAAAAABBAgAAAAAAABAAIAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PlayerBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Pool" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAUgEAIAAAEAIAAAAAAgpAEAkEg=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Pool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PoolTimeObject" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Pool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PoolManager" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAAACAAABAAAAAmAEAAAAAQAAIAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PoolManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PoolParticle" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAgAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PoolParticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.Powerup" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCIAABAAAAAAAAAAAAAACAAAAAAAQAAAAgAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\Powerup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PowerupBullet" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PowerupBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PowerupHealth" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PowerupHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PowerupShield" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PowerupShield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.PrefsKeys" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAkAAAAAAAAAAAREAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\PrefsKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UIBillboard" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAQAIEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UIBillboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UIGame" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQBAABACAAABAAgQAAAAAAEABAASAAABEAAACKQQA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UIGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UIJoystick" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACiAAAEAAIABAMIAAAAEAACAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UIJoystick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TanksMP.UIMain" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAggCBoAAgAAYGECAAAAQgAAAACgCCAgAgABAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UIMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UIRestartButton" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UIRestartButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UnityAdsManager" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UnityAdsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UnityAnalyticsManager" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UnityAnalyticsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UnityEveryplayManager" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAAAAAIAAAABIAAAAKAgAAAAAAAAIAABBAQ=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UnityEveryplayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TanksMP.UnityIAPManager" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\UnityIAPManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TanksMP.NetworkMode" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TanksMultiplayer\Scripts\NetworkManagerCustom.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

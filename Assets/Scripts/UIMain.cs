@@ -263,7 +263,7 @@ namespace TanksMP
 			string url = "";
 			
 			#if UNITY_ANDROID
-				url = "http://play.google.com/store/apps/details?id=" + Application.bundleIdentifier;
+				url = "http://play.google.com/store/apps/details?id=" + Application.identifier;
 			#elif UNITY_IPHONE
 				url = "https://itunes.apple.com/app/idXXXXXXXXX";
 			#endif
