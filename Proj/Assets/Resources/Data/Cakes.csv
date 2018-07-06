@@ -1,0 +1,8 @@
+#标识,蛋糕名字,价格,路径
+ID,Name,Price,Path
+#number,string,number,string
+1,熊熊蛋糕,80,bear
+2,狗狗蛋糕,30,dog
+3,足球蛋糕,5,football
+4,抹茶方蛋糕,5,teamousse
+5,芒果方蛋糕,20,mangomousse

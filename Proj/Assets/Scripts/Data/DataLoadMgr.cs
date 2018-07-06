@@ -10,7 +10,7 @@ namespace DesignData{
 
 	public interface IData
 	{
-		int ID { get; set; }
+		string ID { get; set; }
 	}
 	public class DataMgr
 	{
@@ -60,8 +60,10 @@ namespace DesignData{
 		public Dictionary<string,Cake> CakeDic;
 		void LoadAllData()
 		{
-			CakeDic = LoadCsvFile<Cake, CakeMap>("Data/Cake.csv");//相对于Resources目录
-		}
+            CakeDic = LoadCsvFile<Cake, CakeMap>("Data/Cakes.csv");//相对于Resources目录
 
-	}
+            // 数据访问举例：DesignData.DataMgr.Ins.CakeDic["1"].Name
+        }
+
+    }
 }

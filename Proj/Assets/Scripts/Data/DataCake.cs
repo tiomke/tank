@@ -7,10 +7,10 @@ namespace DesignData
 {
     public class Cake : IData 
     {
-        public int ID { get; set; }
-        public string Name;
-        public float Price;
-        public string Path;
+        public string ID { get; set; }
+        public string Name { get; set; }
+        public float Price { get; set; }
+        public string Path { get; set; }
 
     }
 
