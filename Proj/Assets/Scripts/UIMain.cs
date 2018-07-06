@@ -68,12 +68,13 @@ namespace TanksMP
         /// </summary>
         public Toggle recordToggle;
 
-		//how many times the shop has been opened
-		//private int shopOpened = 0;
+        //how many times the shop has been opened
+        //private int shopOpened = 0;
 
-		//how many times the settings have been opened
-		//private int settingsOpened = 0;
-        
+        //how many times the settings have been opened
+        //private int settingsOpened = 0;
+
+        private UISettings _UISettings;
 
         //initialize player selection in Settings window
         //if this is the first time launching the game, set initial values
@@ -110,6 +111,13 @@ namespace TanksMP
             //but also call it immediately right when its initialization finishes
             UnityEveryplayManager.recordingSupportedEvent += OnEveryplaySupport;
             OnEveryplaySupport(UnityEveryplayManager.IsSupported());
+
+            // 加载各种包
+            // TODO: 找个更合适的地方加载
+            // 资源少、不卡的话就都加载进来，分场景加载
+            FairyGUI.UIPackage.AddPackage("FairyGUI/Common"); 
+            FairyGUI.UIPackage.AddPackage("FairyGUI/LoadingUI"); 
+            FairyGUI.UIPackage.AddPackage("FairyGUI/GameUI"); 
         }
 
 
@@ -181,6 +189,7 @@ namespace TanksMP
         /// </summary>
         public void OpenSettings()
         {
+            _UISettings = new UISettings(this); // TODO: 写个管理器来管理各种界面
             //settingsOpened++;
         }
 		

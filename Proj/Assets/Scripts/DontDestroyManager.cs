@@ -27,10 +27,6 @@ namespace TanksMP
             }
             else if (instance != this)
                 Destroy(gameObject);
-
-            // 仅仅展示下使用
-            Debug.Log("helo");
-            Debug.Log(string.Format("name:{0}", DesignData.DataMgr.Ins.CakeDic["1"].Name));
         }
     }
 }

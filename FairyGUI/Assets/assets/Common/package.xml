@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bddh4kae" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="f5i20" name="Waiting.xml" path="/Compnents/" exported="true"/>
+    <image id="f5i22" name="blue_boxCheckmark.png" path="/Res/PNG/"/>
+    <image id="f5i23" name="blue_boxCross.png" path="/Res/PNG/"/>
+    <image id="f5i24" name="blue_boxTick.png" path="/Res/PNG/"/>
+    <image id="f5i25" name="blue_button00.png" path="/Res/PNG/" exported="true"/>
+    <image id="f5i26" name="blue_button01.png" path="/Res/PNG/" exported="true"/>
+    <image id="f5i27" name="blue_button02.png" path="/Res/PNG/"/>
+    <image id="f5i28" name="blue_button03.png" path="/Res/PNG/"/>
+    <image id="f5i29" name="blue_button04.png" path="/Res/PNG/"/>
+    <image id="f5i2a" name="blue_button05.png" path="/Res/PNG/"/>
+    <image id="f5i2b" name="blue_button06.png" path="/Res/PNG/"/>
+    <image id="f5i2c" name="blue_button07.png" path="/Res/PNG/"/>
+    <image id="f5i2d" name="blue_button08.png" path="/Res/PNG/"/>
+    <image id="f5i2e" name="blue_button09.png" path="/Res/PNG/"/>
+    <image id="f5i2f" name="blue_button10.png" path="/Res/PNG/"/>
+    <image id="f5i2g" name="blue_button11.png" path="/Res/PNG/"/>
+    <image id="f5i2h" name="blue_button12.png" path="/Res/PNG/"/>
+    <image id="f5i2i" name="blue_button13.png" path="/Res/PNG/"/>
+    <image id="f5i2j" name="blue_checkmark.png" path="/Res/PNG/" exported="true"/>
+    <image id="f5i2k" name="blue_circle.png" path="/Res/PNG/"/>
+    <image id="f5i2l" name="blue_cross.png" path="/Res/PNG/" exported="true"/>
+    <image id="f5i2m" name="blue_panel.png" path="/Res/PNG/"/>
+    <image id="f5i2n" name="blue_sliderDown.png" path="/Res/PNG/"/>
+    <image id="f5i2o" name="blue_sliderLeft.png" path="/Res/PNG/"/>
+    <image id="f5i2p" name="blue_sliderRight.png" path="/Res/PNG/"/>
+    <image id="f5i2q" name="blue_sliderUp.png" path="/Res/PNG/"/>
+    <image id="f5i2r" name="blue_tick.png" path="/Res/PNG/"/>
+    <image id="f5i2s" name="dropdownBottom.png" path="/Res/PNG/" exported="true" scale="9grid" scale9grid="48,6,96,12"/>
+    <image id="f5i2t" name="dropdownMid.png" path="/Res/PNG/"/>
+    <image id="f5i2u" name="dropdownTop.png" path="/Res/PNG/"/>
+    <image id="f5i2v" name="green_boxCheckmark.png" path="/Res/PNG/"/>
+    <image id="f5i2w" name="green_boxCross.png" path="/Res/PNG/"/>
+    <image id="f5i2x" name="green_boxTick.png" path="/Res/PNG/"/>
+    <image id="f5i2y" name="green_button00.png" path="/Res/PNG/"/>
+    <image id="f5i2z" name="green_button01.png" path="/Res/PNG/"/>
+    <image id="f5i210" name="green_button02.png" path="/Res/PNG/"/>
+    <image id="f5i211" name="green_button03.png" path="/Res/PNG/"/>
+    <image id="f5i212" name="green_button04.png" path="/Res/PNG/"/>
+    <image id="f5i213" name="green_button05.png" path="/Res/PNG/"/>
+    <image id="f5i214" name="green_button06.png" path="/Res/PNG/"/>
+    <image id="f5i215" name="green_button07.png" path="/Res/PNG/"/>
+    <image id="f5i216" name="green_button08.png" path="/Res/PNG/"/>
+    <image id="f5i217" name="green_button09.png" path="/Res/PNG/"/>
+    <image id="f5i218" name="green_button10.png" path="/Res/PNG/"/>
+    <image id="f5i219" name="green_button11.png" path="/Res/PNG/"/>
+    <image id="f5i21a" name="green_button12.png" path="/Res/PNG/"/>
+    <image id="f5i21b" name="green_button13.png" path="/Res/PNG/"/>
+    <image id="f5i21c" name="green_checkmark.png" path="/Res/PNG/"/>
+    <image id="f5i21d" name="green_circle.png" path="/Res/PNG/"/>
+    <image id="f5i21e" name="green_cross.png" path="/Res/PNG/"/>
+    <image id="f5i21f" name="green_panel.png" path="/Res/PNG/"/>
+    <image id="f5i21g" name="green_sliderDown.png" path="/Res/PNG/"/>
+    <image id="f5i21h" name="green_sliderLeft.png" path="/Res/PNG/"/>
+    <image id="f5i21i" name="green_sliderRight.png" path="/Res/PNG/"/>
+    <image id="f5i21j" name="green_sliderUp.png" path="/Res/PNG/"/>
+    <image id="f5i21k" name="green_tick.png" path="/Res/PNG/"/>
+    <image id="f5i21l" name="grey_arrowDownGrey.png" path="/Res/PNG/"/>
+    <image id="f5i21m" name="grey_arrowDownWhite.png" path="/Res/PNG/"/>
+    <image id="f5i21n" name="grey_arrowUpGrey.png" path="/Res/PNG/"/>
+    <image id="f5i21o" name="grey_arrowUpWhite.png" path="/Res/PNG/"/>
+    <image id="f5i21p" name="grey_box.png" path="/Res/PNG/" exported="true" scale="9grid" scale9grid="10,9,20,18"/>
+    <image id="f5i21q" name="grey_boxCheckmark.png" path="/Res/PNG/"/>
+    <image id="f5i21r" name="grey_boxCross.png" path="/Res/PNG/"/>
+    <image id="f5i21s" name="grey_boxTick.png" path="/Res/PNG/"/>
+    <image id="f5i21t" name="grey_button00.png" path="/Res/PNG/"/>
+    <image id="f5i21u" name="grey_button01.png" path="/Res/PNG/"/>
+    <image id="f5i21v" name="grey_button02.png" path="/Res/PNG/"/>
+    <image id="f5i21w" name="grey_button03.png" path="/Res/PNG/"/>
+    <image id="f5i21x" name="grey_button04.png" path="/Res/PNG/"/>
+    <image id="f5i21y" name="grey_button05.png" path="/Res/PNG/" exported="true"/>
+    <image id="f5i21z" name="grey_button06.png" path="/Res/PNG/"/>
+    <image id="f5i220" name="grey_button07.png" path="/Res/PNG/"/>
+    <image id="f5i221" name="grey_button08.png" path="/Res/PNG/"/>
+    <image id="f5i222" name="grey_button09.png" path="/Res/PNG/"/>
+    <image id="f5i223" name="grey_button10.png" path="/Res/PNG/"/>
+    <image id="f5i224" name="grey_button11.png" path="/Res/PNG/"/>
+    <image id="f5i225" name="grey_button12.png" path="/Res/PNG/"/>
+    <image id="f5i226" name="grey_button13.png" path="/Res/PNG/"/>
+    <image id="f5i227" name="grey_button14.png" path="/Res/PNG/"/>
+    <image id="f5i228" name="grey_button15.png" path="/Res/PNG/"/>
+    <image id="f5i229" name="grey_checkmarkGrey.png" path="/Res/PNG/"/>
+    <image id="f5i22a" name="grey_checkmarkWhite.png" path="/Res/PNG/"/>
+    <image id="f5i22b" name="grey_circle.png" path="/Res/PNG/"/>
+    <image id="f5i22c" name="grey_crossGrey.png" path="/Res/PNG/"/>
+    <image id="f5i22d" name="grey_crossWhite.png" path="/Res/PNG/"/>
+    <image id="f5i22e" name="grey_panel.png" path="/Res/PNG/" exported="true" scale="9grid" scale9grid="25,25,50,50"/>
+    <image id="f5i22f" name="grey_sliderDown.png" path="/Res/PNG/" scale="9grid"/>
+    <image id="f5i22g" name="grey_sliderEnd.png" path="/Res/PNG/"/>
+    <image id="f5i22h" name="grey_sliderHorizontal.png" path="/Res/PNG/" scale="9grid" scale9grid="48,1,96,2"/>
+    <image id="f5i22i" name="grey_sliderLeft.png" path="/Res/PNG/"/>
+    <image id="f5i22j" name="grey_sliderRight.png" path="/Res/PNG/"/>
+    <image id="f5i22k" name="grey_sliderUp.png" path="/Res/PNG/"/>
+    <image id="f5i22l" name="grey_sliderVertical.png" path="/Res/PNG/"/>
+    <image id="f5i22m" name="grey_tickGrey.png" path="/Res/PNG/"/>
+    <image id="f5i22n" name="grey_tickWhite.png" path="/Res/PNG/"/>
+    <image id="f5i22o" name="red_boxCheckmark.png" path="/Res/PNG/"/>
+    <image id="f5i22p" name="red_boxCross.png" path="/Res/PNG/" scale="9grid" scale9grid="10,9,20,18"/>
+    <image id="f5i22q" name="red_boxTick.png" path="/Res/PNG/"/>
+    <image id="f5i22r" name="red_button00.png" path="/Res/PNG/"/>
+    <image id="f5i22s" name="red_button01.png" path="/Res/PNG/"/>
+    <image id="f5i22t" name="red_button02.png" path="/Res/PNG/"/>
+    <image id="f5i22u" name="red_button03.png" path="/Res/PNG/"/>
+    <image id="f5i22v" name="red_button04.png" path="/Res/PNG/"/>
+    <image id="f5i22w" name="red_button05.png" path="/Res/PNG/"/>
+    <image id="f5i22x" name="red_button06.png" path="/Res/PNG/"/>
+    <image id="f5i22y" name="red_button07.png" path="/Res/PNG/"/>
+    <image id="f5i22z" name="red_button08.png" path="/Res/PNG/"/>
+    <image id="f5i230" name="red_button09.png" path="/Res/PNG/"/>
+    <image id="f5i231" name="red_button10.png" path="/Res/PNG/"/>
+    <image id="f5i232" name="red_button11.png" path="/Res/PNG/"/>
+    <image id="f5i233" name="red_button12.png" path="/Res/PNG/"/>
+    <image id="f5i234" name="red_button13.png" path="/Res/PNG/"/>
+    <image id="f5i235" name="red_checkmark.png" path="/Res/PNG/"/>
+    <image id="f5i236" name="red_circle.png" path="/Res/PNG/"/>
+    <image id="f5i237" name="red_cross.png" path="/Res/PNG/"/>
+    <image id="f5i238" name="red_panel.png" path="/Res/PNG/"/>
+    <image id="f5i239" name="red_sliderDown.png" path="/Res/PNG/"/>
+    <image id="f5i23a" name="red_sliderLeft.png" path="/Res/PNG/"/>
+    <image id="f5i23b" name="red_sliderRight.png" path="/Res/PNG/"/>
+    <image id="f5i23c" name="red_sliderUp.png" path="/Res/PNG/"/>
+    <image id="f5i23d" name="red_tick.png" path="/Res/PNG/"/>
+    <image id="f5i23e" name="yellow_boxCheckmark.png" path="/Res/PNG/"/>
+    <image id="f5i23f" name="yellow_boxCross.png" path="/Res/PNG/"/>
+    <image id="f5i23g" name="yellow_boxTick.png" path="/Res/PNG/"/>
+    <image id="f5i23h" name="yellow_button00.png" path="/Res/PNG/"/>
+    <image id="f5i23i" name="yellow_button01.png" path="/Res/PNG/"/>
+    <image id="f5i23j" name="yellow_button02.png" path="/Res/PNG/"/>
+    <image id="f5i23k" name="yellow_button03.png" path="/Res/PNG/"/>
+    <image id="f5i23l" name="yellow_button04.png" path="/Res/PNG/"/>
+    <image id="f5i23m" name="yellow_button05.png" path="/Res/PNG/"/>
+    <image id="f5i23n" name="yellow_button06.png" path="/Res/PNG/"/>
+    <image id="f5i23o" name="yellow_button07.png" path="/Res/PNG/"/>
+    <image id="f5i23p" name="yellow_button08.png" path="/Res/PNG/"/>
+    <image id="f5i23q" name="yellow_button09.png" path="/Res/PNG/"/>
+    <image id="f5i23r" name="yellow_button10.png" path="/Res/PNG/"/>
+    <image id="f5i23s" name="yellow_button11.png" path="/Res/PNG/"/>
+    <image id="f5i23t" name="yellow_button12.png" path="/Res/PNG/"/>
+    <image id="f5i23u" name="yellow_button13.png" path="/Res/PNG/"/>
+    <image id="f5i23v" name="yellow_checkmark.png" path="/Res/PNG/"/>
+    <image id="f5i23w" name="yellow_circle.png" path="/Res/PNG/"/>
+    <image id="f5i23x" name="yellow_cross.png" path="/Res/PNG/"/>
+    <image id="f5i23y" name="yellow_panel.png" path="/Res/PNG/"/>
+    <image id="f5i23z" name="yellow_sliderDown.png" path="/Res/PNG/"/>
+    <image id="f5i240" name="yellow_sliderLeft.png" path="/Res/PNG/"/>
+    <image id="f5i241" name="yellow_sliderRight.png" path="/Res/PNG/"/>
+    <image id="f5i242" name="yellow_sliderUp.png" path="/Res/PNG/"/>
+    <image id="f5i243" name="yellow_tick.png" path="/Res/PNG/"/>
+    <component id="f5i244" name="ChkBox.xml" path="/Compnents/" exported="true"/>
+    <component id="f5i245" name="Slider1.xml" path="/Compnents/Silder/" exported="true"/>
+    <component id="f5i246" name="Slider1_grip.xml" path="/Compnents/Silder/" exported="true"/>
+    <component id="f5i247" name="ComboBox2.xml" path="/Compnents/ComboBox/" exported="true"/>
+    <component id="f5i248" name="ComboBox2_popup.xml" path="/Compnents/ComboBox/"/>
+    <component id="f5i249" name="ComboBox2_item.xml" path="/Compnents/ComboBox/"/>
+    <component id="f5i24a" name="Button.xml" path="/Compnents/" exported="true"/>
+  </resources>
+  <publish name="Common"/>
+</packageDescription>
